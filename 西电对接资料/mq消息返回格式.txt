@@ -1,0 +1,19 @@
+{
+    "msg": "处理成功",
+    "result": {
+        "tif": "\\\\192.168.1.209\\data\\mnt\\algResult\\trqs\\slqs\\dataResult\\2023_slqs\\Uzbekistan_2023_GF6_Water_Erosion_rank.tif",
+        "csv": "\\\\192.168.1.209\\data\\mnt\\algResult\\trqs\\slqs\\dataResult\\2023_slqs\\Uzbekistan_2023_GF6_Water_Erosion_rank.csv",
+		"png": "\\\\192.168.1.209\\data\\mnt\\algResult\\trqs\\slqs\\dataResult\\2023_slqs\\Uzbekistan_2023_GF6_Water_Erosion_rank.png"
+    },
+    "algType": "5007",
+    "classifyId": "1622",
+    "code": "200"
+}
+
+
+字段解释：
+msg  表示      算法运行返回的语句  运行成功返回“处理成功”，运行失败返回“处理失败”
+code 表示      算法运行返回的code  运行成功返回“200”，运行失败返回“500”
+result 表示     算法运行的成果地址  包含csv 和tif的绝对地址
+algType表示   算法的编码（每种算法有一个固定的编码，由接口传入）
+classifyId表示 原始影像在系统中的id（由接口传入）  

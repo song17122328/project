@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9382d4ca-e2fd-4c99-88ca-e02e12b27a62" name="hanxueyuan@202.120.32.244:15422 password">
+        <fileTransfer rootFolder="/data/hanxueyuan" accessType="SFTP" host="202.120.32.244" port="15422" sshConfigId="4d6bd5ff-eed3-4785-b93a-5071a270c478" sshConfig="hxy_remote">
+          <advancedOptions>
+            <advancedOptions keepAliveTimeout="0" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

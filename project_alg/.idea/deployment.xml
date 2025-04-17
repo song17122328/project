@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="hanxueyuan@202.120.32.244:15422 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="hanxueyuan@202.120.32.244:15422 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/fuse_pan_mss/project" local="$PROJECT_DIR$" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
